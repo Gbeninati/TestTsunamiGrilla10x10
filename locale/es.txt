@@ -1,0 +1,17 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 2
+
+## Media
+
+### Título
+panorama_4AA5F314_593B_DF49_41CC_FE91DF2F5EB0.label = Inkedgrilla_LI
+panorama_50F1AF38_5906_C7B9_41D4_39CA7E040F04.label = pano9
+panorama_50F2FDDC_5906_CAFA_41B0_5559946DA2BB.label = pano10
+panorama_53F9FE74_5906_C9CA_41CD_A9DAD95BF20D.label = pano1
+panorama_79A047AC_72D3_75FC_41D3_96A4FD56E861.label = Inked360_10X10_LI
